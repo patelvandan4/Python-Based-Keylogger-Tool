@@ -1,0 +1,46 @@
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+  File "/home/akash/Desktop/Keylogger/keylogger.py", line 17
+    f.write(f"{chr(event.Ascii)}")  # Write to the file and convert ascii to readable characters
+TabError: inconsistent use of tabs and spaces in indentation
+  File "/home/akash/Desktop/Keylogger/keylogger.py", line 17
+    f.write(f"{chr(event.Ascii)}")  # Write to the file and convert ascii to readable characters
+TabError: inconsistent use of tabs and spaces in indentation
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+Exception ignored in: <module 'threading' from '/usr/lib/python3.11/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.11/threading.py", line 1590, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
